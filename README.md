@@ -2,6 +2,7 @@ SparkFun MicroView USB Programmer
 =================================
 
 ![SparkFun MicroView USB Programmer](https://cdn.sparkfun.com//assets/parts/9/8/4/6/12924-01.jpg)
+
 [*SparkFUn MicroView USB Programmer (DEV-12924)*](https://www.sparkfun.com/products/12924)
 
 This USB programmer connects directly to the MicroView 
